@@ -1,0 +1,10 @@
+Anvar Junior 500 100 1-bolim 
+Asror Middle 1500 500 2-bo'lim
+Kamola Senior 2500 -100 3-bolim
+Vali Junior 500 -100 1-bolim
+Davron Middle 1500 100 2-bo'lim
+Bahodir Senior 2500 -100 3-bolim
+Farrux Junior 500 100 1-bo'lim
+Jamila Middle 1500 200 2-bolim
+Jasur Senior 2500 500 3-bolim
+Komila Junior 500 -100 1-bo'lim
